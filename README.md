@@ -53,4 +53,5 @@ Alcohol and Density have the highest coefficients, meaning they have the highest
 Only about 75% of the properties have postitive impact on red wine quality. The properties that have negative impact on Red wine's quality are chlorides, total sulfur dioxide, and volatile acidity. 
 Similar to White wine, Alcohol had the highest coefficient, meaning it has the most impact on quality score. pH also has a high coefficient and therefore a high impact on quality. This may be due to the fact that high pH allows Red wine to age faster and have a fuller body.  
 
-  
+**Conclusion:**<br />  
+- Rate your wine at home like an expert 
